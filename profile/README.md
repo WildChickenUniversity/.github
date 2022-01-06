@@ -6,7 +6,7 @@
 
 
 
-**Update:** We are now cooping with the [Home University | 家里蹲大学](https://github.com/HMUniversity)
+**Update:** We are now collaborating with the [Home University | 家里蹲大学](https://github.com/HMUniversity)
 
 
 
