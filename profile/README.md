@@ -2,7 +2,9 @@
 
 **NO fees💰️ to apply. NO supplements📝 to submit. NO extra essays to write.**
 
-**Update:** We are now collaborating with the [Home University | 家里蹲大学](https://github.com/HMUniversity)
+**Update:** We are now a proud member of the [U4 Group of GitHub Research Universities](https://github.com/U4Group).
+
+We are now collaborating with the [Home University | 家里蹲大学](https://github.com/HMUniversity)
 
 The college application season generates considerable anxiety among students who are waiting to have their futures decided by admission board. So why don't you take it into your **own hand**?
 
