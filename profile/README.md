@@ -1,5 +1,9 @@
 ## Welcome to WCU's GitHub Repo👋
 
+![banner](https://wcu.edu.pl/images/Wild_Chicken.svg)
+
+<sub>Logos licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).</sub>
+
 **NO fees💰️ to apply. NO supplements📝 to submit. NO extra essays to write.**
 
 **Update:** We are now a proud member of the [U4 Group of GitHub Research Universities](https://github.com/U4Group).
@@ -13,3 +17,4 @@ Get your diploma at [[https://certificate.wcu.edu.pl](https://wcu.edu.pl/diploma
 Get your admission letter at [https://wcu.edu.pl/admission](https://wcu.edu.pl/admission)
 
 Pay tribute to our mascot at [https://mascot.wcu.edu.pl](https://mascot.wcu.edu.pl)
+
