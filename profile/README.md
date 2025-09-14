@@ -2,7 +2,7 @@
 
 ![banner](https://wcu.edu.pl/images/Wild_Chicken.svg)
 
-<sub>Logos licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).</sub>
+<sub>Logos licensed under the Attribution-NonCommercial-ShareAlike 4.0 International [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/BY-NC-SA/4.0/).
 
 **NO fees💰️ to apply. NO supplements📝 to submit. NO extra essays to write.**
 
