@@ -12,7 +12,7 @@ We are now collaborating with the [Home University | 家里蹲大学](https://gi
 
 The college application season generates considerable anxiety among students who are waiting to have their futures decided by admission board. So why don't you take it into your **own hand**?
 
-Get your diploma at [[https://certificate.wcu.edu.pl](https://wcu.edu.pl/diploma)](https://wcu.edu.pl/diploma)
+Get your diploma at [https://certificate.wcu.edu.pl](https://wcu.edu.pl/diploma)
 
 Get your admission letter at [https://wcu.edu.pl/admission](https://wcu.edu.pl/admission)
 
